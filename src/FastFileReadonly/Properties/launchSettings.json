@@ -1,0 +1,23 @@
+{
+  "profiles": {
+    "FastFileReadonly": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\debugfiles\""
+    },
+    "FastFileReadonlyVersion": {
+      "commandName": "Project",
+      "commandLineArgs": "--version"
+    },
+    "FastFileReadonlyHelp": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    },
+    "FastFileReadonlyEmpty": {
+      "commandName": "Project"
+    },
+    "FastFileReadonlyNotExist": {
+      "commandName": "Project",
+      "commandLineArgs": "\"D:\\NotExistDir\""
+    }
+  }
+}
